@@ -1,0 +1,3 @@
+﻿  App.cpp
+C:\Users\leade\software\ChasmEngine\ChasmEngine\Chasm\Chasm\src\App.cpp(7,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Chasm.vcxproj -> C:\Users\leade\software\ChasmEngine\ChasmEngine\bin\Debug-x64\Chasm\Chasm.exe
