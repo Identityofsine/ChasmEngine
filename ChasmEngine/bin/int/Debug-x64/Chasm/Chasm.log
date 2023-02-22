@@ -1,3 +1,4 @@
 ﻿  ChasmGame.cpp
-     Creating library C:\Users\leade\software\ChasmEngine\ChasmEngine\\bin\Debug-x64\Chasm\Chasm.lib and object C:\Users\leade\software\ChasmEngine\ChasmEngine\\bin\Debug-x64\Chasm\Chasm.exp
+C:\Users\leade\software\ChasmEngine\ChasmEngine\ChasmEngine\src\CE\Application.h(16,10): warning C4251: 'Chasm::Application::wndw': class 'Chasm::Window' needs to have dll-interface to be used by clients of class 'Chasm::Application'
+C:\Users\leade\software\ChasmEngine\ChasmEngine\ChasmEngine\src\CE\Window.h(5): message : see declaration of 'Chasm::Window'
   Chasm.vcxproj -> C:\Users\leade\software\ChasmEngine\ChasmEngine\bin\Debug-x64\Chasm\Chasm.exe

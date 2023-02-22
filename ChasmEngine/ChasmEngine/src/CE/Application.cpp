@@ -12,7 +12,15 @@ namespace Chasm {
 	}
 
 	void Application::run() {
+		this->wndw = Window();
+		this->wndw.init();
+		//start 3d renderer
+
+		printf("ChasmEngine Started...");
+
 		while (true);
 	}
+
+
 
 }

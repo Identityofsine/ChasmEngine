@@ -1,6 +1,7 @@
 #pragma once
 
 #include "Core.h"
+#include "Window.h"
 
 namespace Chasm {
 
@@ -11,8 +12,9 @@ namespace Chasm {
 		Application();
 		virtual ~Application();
 		void run();
+	protected:
+		Window wndw;
 	};
-
 	// To be defined in CLIENT 
 	Application* CreateApplication();
 }
